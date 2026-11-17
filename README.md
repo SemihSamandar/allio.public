@@ -3,6 +3,10 @@
 > **Note:** The source code of Allio lives in a private repository. This public repo is a
 > project overview: what Allio is, why I built it, and what I built in it.
 
+<p>
+<a href="https://allio.semihsamandar.com/"><img src="https://img.shields.io/badge/Website-allio.semihsamandar.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+</p>
+
 Allio is a mobile app for creating and managing your own AI bot agents from your phone.
 You define a bot for one specific job, give it the capabilities it needs, and let it work on
 its own. When it's time, it runs, does the job, and drops the result onto your dashboard as a
